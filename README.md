@@ -1,1 +1,4 @@
-
+- Nombre del proyecto: Code-dwes-2026
+- Qué es Git: Git es un repositorio que permite almacenar y registrar cambios en tiempo real en proyectos tanto individuales como en grupo
+- Qué es un commit: es un comando utilizado para confirmar cambios en el proyecto sobre el que se trabaja
+- El proyecto contará con una estructura básica enfocada a los recursos mínimo y esenciales para que el proyecto funcione de manera normal
